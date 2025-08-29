@@ -33,3 +33,8 @@ func From12() {
 func From13() {
 	fmt.Println("I'm from version v1.3.0!")
 }
+
+// To see the tags on the repo's website on GitHub, you must use the following command:
+// 'git push origin --tags'
+// This will push all the tags created to the repository info.
+// Now, you can see that is has 3 tags ('v1.1.0', 'v1.2.0' and 'v1.3.0') on the repo's page.
